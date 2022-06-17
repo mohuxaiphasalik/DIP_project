@@ -4,5 +4,5 @@
 
 ![unet-img](https://user-images.githubusercontent.com/61021884/174198368-fc82004c-7b31-4269-b6fa-7e396d9367e5.png)
 
-![image](https://user-images.githubusercontent.com/61021884/174198537-b77a91d5-7700-4cbd-9998-2360f21a8c40.png)
+![image](https://user-images.githubusercontent.com/61021884/174198603-92822ebb-a550-4299-8254-ff6ae87b89c4.png)
 
